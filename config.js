@@ -28,16 +28,17 @@ const BIRTHDAY_CONFIG = {
     eyebrow: "For Kannadi 👀",
     title: "Before you accuse me of forgetting your birthday…",
     subtitle: "I did NOT.",
-    button: "Prove it by scrolling down ↓"
+    button: "i'll Prove it by scrolling down ↓"
   },
 
   // REVEAL
   reveal: {
-    title: "Okay fine. You got me. 💀",
+    title: "Hey so i didn't Forget",
     paragraphs: [
-      "I acted like I forgot. I know. Terrible acting, right? 😭",
-      "But after 3+ years of knowing you, there was absolutely no chance I forgot the birthday of someone who has somehow ended up in so many chapters of my life.",
+      "After 3+ years of knowing you, there was absolutely no chance I forgot the birthday of someone who has somehow ended up in so many chapters of my life.",
       "So yes… the whole “I forgot” thing was a setup. You walked directly into it. Congratulations. 😂"
+      "Since we cant meet i made a website as Gift to show my love"
+      "And to show somethings i remember of yuh"
     ],
     button: "Continue →"
   },
@@ -48,25 +49,25 @@ const BIRTHDAY_CONFIG = {
     {
       date: "Chapter 01",
       title: "Memory #1",
-      text: "Replace this with the first story, inside joke, or moment you want to remember.",
+      text: "i still remember the dp u had when u first texted me.",
       image: ""
     },
     {
       date: "Chapter 02",
       title: "Memory #2",
-      text: "Maybe the stupidest conversation you both somehow remember years later.",
+      text: "A rare and cute pic of you (it wasnt ez to find this).",
       image: ""
     },
     {
       date: "Chapter 03",
       title: "Memory #3",
-      text: "Add an important moment, an argument you survived, or a completely random memory.",
+      text: "This might be the most Serious yet most pointless thing we ever did. (cuz nothing changed)",
       image: ""
     },
     {
       date: "Chapter 04",
       title: "Memory #4",
-      text: "One more chapter. Because apparently 3+ years wasn't enough chaos.",
+      text: "A random pic of you again cuz i couldn't find a pic we both together",
       image: ""
     }
   ],
@@ -86,11 +87,11 @@ const BIRTHDAY_CONFIG = {
     title: "Okay… jokes aside ❤️",
     paragraphs: [
       "Happy birthday, Kannadi. 💙",
-      "It’s actually kind of crazy thinking about how long we’ve known each other. More than three years of you seeing different versions of me — the serious one, the stupid one, the overthinking one, and probably several versions that should never have been released to the public. 😭",
+      "It’s actually kind of crazy thinking about how long we’ve known each other. More than three years of you seeing different versions of me , the serious one, the stupid one, the overthinking one, and probably several versions that should never have been released to the public. 😭",
       "We’ve had random conversations that made absolutely no sense, arguments over things that probably didn't deserve an argument, ridiculous laughs, quiet moments, and so many completely ordinary days that somehow became memories.",
       "I’m genuinely grateful you’ve been part of my life for all this time. I hope this next year gives you the kind of happiness that stays, peace when you need it, good people around you, and moments you’ll remember for a very long time.",
       "I genuinely care about you, and even if I don't always say it perfectly, I hope you know that your place in my life matters to me.",
-      "And please don't let this message inflate your ego too much. You’re still annoying. This website is simply temporary evidence that I tolerate you. 💀😂"
+      "And please don't let this message inflate your ego too much. You’re still annoying. This website is simply temporary evidence that I tolerate you. 😌"
     ]
   },
 
@@ -98,7 +99,7 @@ const BIRTHDAY_CONFIG = {
   final: {
     title: "Happy Birthday, Kannadi. 💙",
     subtitle: "3+ years down. A whole lot more memories to go.",
-    joke: "Now go enjoy your day, old woman. 😭💀",
+    joke: "Now go enjoy your day, old woman.💀",
     button: "Replay the chaos ↺"
   }
 };
