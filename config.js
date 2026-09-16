@@ -1,16 +1,3 @@
-/*
-========================================================
-💙 KANNADI BIRTHDAY WEBSITE — EASY EDITING AREA 💙
-Change ONLY the values in this file to personalize the site.
-You do NOT need to edit index.html, style.css, or script.js.
-
-TIP: Keep image files inside the "images" folder and use:
-"images/your-photo.jpg"
-
-For a photo placeholder, leave image: "".
-========================================================
-*/
-
 const BIRTHDAY_CONFIG = {
   // BASIC DETAILS
   name: "Ameera",
@@ -20,78 +7,41 @@ const BIRTHDAY_CONFIG = {
   accentColor: "#7dd3fc",
 
   // MUSIC
-  // Replace this with the official YouTube / Spotify / Apple Music link you want.
   musicUrl: "https://www.youtube.com/results?search_query=Harris+J+Hayati",
 
   // OPENING
   opening: {
     eyebrow: "For Kannadi 👀",
-    title: "Before you accuse me of forgetting your birthday…",
-    subtitle: "I did NOT.",
-    button: "i'll Prove it by scrolling down ↓"
+    title: "",
+    subtitle: "",
+    button: "Let's see what it is ↓"
   },
 
   // REVEAL
   reveal: {
-  title: "Hey so i didn't Forget",
-  paragraphs: [
-    "After 3+ years of knowing you, there was absolutely no way I forgot the birthday of someone who has somehow ended up in so many chapters of my life.",
-    "So yes… the whole “I forgot” thing was a setup. You walked directly into it. Congratulations. 😂",
-    "Since we cant meet i made a website as Gift to show my love",
-    "And to show somethings i remember of yuh"
-  ],
-  button: "Continue →"
-},
+    title: "Okay… hear me out. 👀",
+    paragraphs: [
+      "I actually had an even better idea for your birthday and wanted to make a proper website for you.",
+      "But I've been really busy with work these days and couldn't get around to making it the way I wanted. I'm sorry about that. 😭",
+      "So instead, I made this lil something for you… and hopefully you'll like it. 💙"
+    ],
+    button: "Continue →"
+  },
 
-  // TIMELINE — add, remove, or reorder memories here.
-  // image can be "images/photo.jpg" or "" for a text-only card.
-  memories: [
-    {
-      date: "Chapter 01",
-      title: "Memory #1",
-      text: "i still remember the dp u had when u first texted me.",
-      image: ""
-    },
-    {
-      date: "Chapter 02",
-      title: "Memory #2",
-      text: "A rare and cute pic of you (it wasnt ez to find this).",
-      image: ""
-    },
-    {
-      date: "Chapter 03",
-      title: "Memory #3",
-      text: "This might be the most Serious yet most pointless thing we ever did. (cuz nothing changed)",
-      image: ""
-    },
-    {
-      date: "Chapter 04",
-      title: "Memory #4",
-      text: "A random pic of you again cuz i couldn't find a pic we both together",
-      image: ""
-    }
-  ],
+  // NO IMAGES / TIMELINE FOR NOW
+  memories: [],
+  gallery: [],
 
-  // GALLERY — replace image paths with your own files.
-  gallery: [
-    { caption: "The evidence 📸", image: "" },
-    { caption: "A questionable decision 😂", image: "" },
-    { caption: "One of the good days 💙", image: "" },
-    { caption: "Another memory unlocked 🔓", image: "" },
-    { caption: "Proof we survived this long", image: "" },
-    { caption: "This one deserves its own frame 🫶", image: "" }
-  ],
-
-  // HEARTFELT MESSAGE
+  // BIRTHDAY WISH
   emotional: {
     title: "Okay… jokes aside ❤️",
     paragraphs: [
       "Happy birthday, Kannadi. 💙",
-      "It’s actually kind of crazy thinking about how long we’ve known each other. More than three years of you seeing different versions of me , the serious one, the stupid one, the overthinking one, and probably several versions that should never have been released to the public. 😭",
-      "We’ve had random conversations that made absolutely no sense, arguments over things that probably didn't deserve an argument, ridiculous laughs, quiet moments, and so many completely ordinary days that somehow became memories.",
-      "I’m genuinely grateful you’ve been part of my life for all this time. I hope this next year gives you the kind of happiness that stays, peace when you need it, good people around you, and moments you’ll remember for a very long time.",
+      "It's actually kind of crazy thinking about how long we've known each other. More than three years of you seeing different versions of me — the serious one, the stupid one, the overthinking one, and probably several versions that should never have been released to the public. 😭",
+      "We've had random conversations that made absolutely no sense, arguments over things that probably didn't deserve an argument, ridiculous laughs, quiet moments, and so many completely ordinary days that somehow became memories.",
+      "I'm genuinely grateful you've been part of my life for all this time. I hope this next year gives you the kind of happiness that stays, peace when you need it, good people around you, and moments you'll remember for a very long time.",
       "I genuinely care about you, and even if I don't always say it perfectly, I hope you know that your place in my life matters to me.",
-      "And please don't let this message inflate your ego too much. You’re still annoying. This website is simply temporary evidence that I tolerate you. 😌"
+      "And please don't let this message inflate your ego too much. You're still annoying😏. This website is simply temporary evidence that I tolerate you. 😌"
     ]
   },
 
@@ -99,7 +49,7 @@ const BIRTHDAY_CONFIG = {
   final: {
     title: "Happy Birthday, Kannadi. 💙",
     subtitle: "3+ years down. A whole lot more memories to go.",
-    joke: "Now go enjoy your day, old woman.💀",
+    joke: "Now go enjoy your day, old woman. 💀",
     button: "Replay the chaos ↺"
   }
 };
