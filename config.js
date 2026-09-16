@@ -50,7 +50,7 @@ const BIRTHDAY_CONFIG = {
       date: "Chapter 01",
       title: "Memory #1",
       text: "i still remember the dp u had when u first texted me.",
-      image: "5fde3a34-f089-4564-8855-8bcd0a4cfdaa.jpeg"
+      image: ""
     },
     {
       date: "Chapter 02",
