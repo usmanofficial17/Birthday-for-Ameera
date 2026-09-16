@@ -33,15 +33,15 @@ const BIRTHDAY_CONFIG = {
 
   // REVEAL
   reveal: {
-    title: "Hey so i didn't Forget",
-    paragraphs: [
-      "After 3+ years of knowing you, there was absolutely no way I forgot the birthday of someone who has somehow ended up in so many chapters of my life.",
-      "So yes… the whole “I forgot” thing was a setup. You walked directly into it. Congratulations. 😂"
-      "Since we cant meet i made a website as Gift to show my love"
-      "And to show somethings i remember of yuh"
-    ],
-    button: "Continue →"
-  },
+  title: "Hey so i didn't Forget",
+  paragraphs: [
+    "After 3+ years of knowing you, there was absolutely no way I forgot the birthday of someone who has somehow ended up in so many chapters of my life.",
+    "So yes… the whole “I forgot” thing was a setup. You walked directly into it. Congratulations. 😂",
+    "Since we cant meet i made a website as Gift to show my love",
+    "And to show somethings i remember of yuh"
+  ],
+  button: "Continue →"
+},
 
   // TIMELINE — add, remove, or reorder memories here.
   // image can be "images/photo.jpg" or "" for a text-only card.
