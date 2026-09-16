@@ -28,8 +28,10 @@ const BIRTHDAY_CONFIG = {
     button: "Continue →"
   },
 
-  // NO IMAGES / TIMELINE FOR NOW
+  // NO MEMORIES OR PHOTOS FOR NOW
   memories: [],
+
+  // NO GALLERY FOR NOW
   gallery: [],
 
   // BIRTHDAY WISH
@@ -41,7 +43,7 @@ const BIRTHDAY_CONFIG = {
       "We've had random conversations that made absolutely no sense, arguments over things that probably didn't deserve an argument, ridiculous laughs, quiet moments, and so many completely ordinary days that somehow became memories.",
       "I'm genuinely grateful you've been part of my life for all this time. I hope this next year gives you the kind of happiness that stays, peace when you need it, good people around you, and moments you'll remember for a very long time.",
       "I genuinely care about you, and even if I don't always say it perfectly, I hope you know that your place in my life matters to me.",
-      "And please don't let this message inflate your ego too much. You're still annoying😏. This website is simply temporary evidence that I tolerate you. 😌"
+      "And please don't let this message inflate your ego too much. You're still annoying. This website is simply temporary evidence that I tolerate you. 😌"
     ]
   },
 
